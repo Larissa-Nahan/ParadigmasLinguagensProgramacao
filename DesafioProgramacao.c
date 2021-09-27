@@ -78,7 +78,6 @@ int main() {
             lista(alinhamento_pneus, correia_alternador, correia_compressor, correia_dentada, correia_poly, filtro_ar, filtro_cabine, filtro_combustivel, filtro_oleo, fluido_transmissoes, fluido_freio, limpeza_ar, limpeza_arrefeciemento, liquido_arrefeciemento, oleo_lubrificante, pneus, velas);
         } else if (ultima_revisao >= 2){
             char filtro_cabine[] = "Troca Obrigatória";
-            char fluido_transmissoes[] = "Troca Opcional";
             char fluido_freio[] = "Troca Obrigatória";
             char limpeza_ar[] = "Limpeza Obrigatória";
             char limpeza_arrefeciemento[] = "Limpeza Obrigatória";
@@ -88,7 +87,6 @@ int main() {
             lista(alinhamento_pneus, correia_alternador, correia_compressor, correia_dentada, correia_poly, filtro_ar, filtro_cabine, filtro_combustivel, filtro_oleo, fluido_transmissoes, fluido_freio, limpeza_ar, limpeza_arrefeciemento, liquido_arrefeciemento, oleo_lubrificante, pneus, velas);
         } else if (ultima_revisao >= 1){
             char filtro_cabine[] = "Troca Não Necessária";
-            char fluido_transmissoes[] = "Troca Opcional";
             char fluido_freio[] = "Troca Obrigatória";
             char limpeza_ar[] = "Troca Obrigatória";
             char limpeza_arrefeciemento[] = "Troca Não Necessária";
@@ -98,7 +96,6 @@ int main() {
             lista(alinhamento_pneus, correia_alternador, correia_compressor, correia_dentada, correia_poly, filtro_ar, filtro_cabine, filtro_combustivel, filtro_oleo, fluido_transmissoes, fluido_freio, limpeza_ar, limpeza_arrefeciemento, liquido_arrefeciemento, oleo_lubrificante, pneus, velas);
         } else {
             char filtro_cabine[] = "Troca Não Necessária";
-            char fluido_transmissoes[] = "Troca Não Necessária";
             char fluido_freio[] = "Troca Opcional";
             char limpeza_ar[] = "Limpeza Não Necessária";
             char limpeza_arrefeciemento[] = "Limpeza Não Necessária";
@@ -140,7 +137,6 @@ int main() {
             lista(alinhamento_pneus, correia_alternador, correia_compressor, correia_dentada, correia_poly, filtro_ar, filtro_cabine, filtro_combustivel, filtro_oleo, fluido_transmissoes, fluido_freio, limpeza_ar, limpeza_arrefeciemento, liquido_arrefeciemento, oleo_lubrificante, pneus, velas);
         } else if (ultima_revisao >= 2){
             char filtro_cabine[] = "Troca Obrigatória";
-            char fluido_transmissoes[] = "Troca Opcional";
             char fluido_freio[] = "Troca Obrigatória";
             char limpeza_ar[] = "Limpeza Obrigatória";
             char limpeza_arrefeciemento[] = "Limpeza Obrigatória";
@@ -150,7 +146,6 @@ int main() {
             lista(alinhamento_pneus, correia_alternador, correia_compressor, correia_dentada, correia_poly, filtro_ar, filtro_cabine, filtro_combustivel, filtro_oleo, fluido_transmissoes, fluido_freio, limpeza_ar, limpeza_arrefeciemento, liquido_arrefeciemento, oleo_lubrificante, pneus, velas);
         } else if (ultima_revisao >= 1){
             char filtro_cabine[] = "Troca Não Necessária";
-            char fluido_transmissoes[] = "Troca Opcional";
             char fluido_freio[] = "Troca Obrigatória";
             char limpeza_ar[] = "Troca Obrigatória";
             char limpeza_arrefeciemento[] = "Troca Não Necessária";
@@ -160,7 +155,6 @@ int main() {
             lista(alinhamento_pneus, correia_alternador, correia_compressor, correia_dentada, correia_poly, filtro_ar, filtro_cabine, filtro_combustivel, filtro_oleo, fluido_transmissoes, fluido_freio, limpeza_ar, limpeza_arrefeciemento, liquido_arrefeciemento, oleo_lubrificante, pneus, velas);
         } else {
             char filtro_cabine[] = "Troca Não Necessária";
-            char fluido_transmissoes[] = "Troca Não Necessária";
             char fluido_freio[] = "Troca Opcional";
             char limpeza_ar[] = "Limpeza Não Necessária";
             char limpeza_arrefeciemento[] = "Limpeza Não Necessária";
