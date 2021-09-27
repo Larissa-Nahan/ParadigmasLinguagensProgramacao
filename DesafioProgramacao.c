@@ -88,8 +88,8 @@ int main() {
         } else if (ultima_revisao >= 1){
             char filtro_cabine[] = "Troca Não Necessária";
             char fluido_freio[] = "Troca Obrigatória";
-            char limpeza_ar[] = "Troca Obrigatória";
-            char limpeza_arrefeciemento[] = "Troca Não Necessária";
+            char limpeza_ar[] = "Limpeza Obrigatória";
+            char limpeza_arrefeciemento[] = "Limpeza Não Necessária";
 	    char liquido_arrefeciemento[] = "Troca Não Necessária";
             char pneus[] = "Troca Não Necessária";
             
@@ -147,8 +147,8 @@ int main() {
         } else if (ultima_revisao >= 1){
             char filtro_cabine[] = "Troca Não Necessária";
             char fluido_freio[] = "Troca Obrigatória";
-            char limpeza_ar[] = "Troca Obrigatória";
-            char limpeza_arrefeciemento[] = "Troca Não Necessária";
+            char limpeza_ar[] = "Limpeza Obrigatória";
+            char limpeza_arrefeciemento[] = "Limpeza Não Necessária";
 	    char liquido_arrefeciemento[] = "Troca Não Necessária";
             char pneus[] = "Troca Não Necessária";
             
